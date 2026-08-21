@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Registration Form</title>
+</head>
+
+<body>
+
+    <h2 style="color: blue;">Student Registration Form</h2>
+
+    <form>
+        <label style="color: green;">Full Name:</label>
+        <input type="text" name="fullname" style="border: 1px solid black;">
+        <br><br>
+
+        <label style="color: green;">Email:</label>
+        <input type="email" name="email" style="border: 1px solid black;">
+        <br><br>
+
+        <label style="color: green;">Phone Number:</label>
+        <input type="tel" name="phone" style="border: 1px solid black;">
+        <br><br>
+
+        <label style="color: green;">Password:</label>
+        <input type="password" name="password" style="border: 1px solid black;">
+        <br><br>
+
+        <input type="submit" value="Submit" style="background-color: lightblue;">
+        <input type="reset" value="Reset" style="background-color: lightgray;">
+    </form>
+
+</body>
+</html>
