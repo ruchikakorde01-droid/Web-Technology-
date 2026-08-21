@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+
+<body>
+
+    <h1>Welcome to My Web Page</h1>
+
+    <h2>About HTML</h2>
+    <p>
+        HTML stands for HyperText Markup Language.
+        It is used to create and design web pages.
+    </p>
+
+    <h2>My Introduction</h2>
+    <p>
+        Hello! My name is Ruchika. I am a BTech Computer Technology student.
+    </p>
+
+</body>
+</html>
